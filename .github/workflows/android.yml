@@ -77,7 +77,7 @@ jobs:
         with:
           cache-provider: basic
           validate-wrappers: false
-          gradle-version: "8.11"
+          gradle-version: "9.6.1"
 
       - name: Run scripts
         run: |
